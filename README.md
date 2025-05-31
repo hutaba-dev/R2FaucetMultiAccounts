@@ -75,7 +75,7 @@ The interactive CLI will guide you through:
 2. After complete faucets of all wallets, bot will be automatically termineated.
 
 ## Contributors
-- Forked by Hutaba (https://t.me/hutabainfo)
+- Hutaba (https://t.me/hutabainfo)
 
 ## License
 MIT License
