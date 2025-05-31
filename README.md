@@ -1,7 +1,7 @@
 # R2FaucetMultiAccounts
 Support multi accounts on discord of R2 community
  - Sepolia, Arbitrum Sepolia, Plume, BSC testnet, Monad Testnet, Base Sepolia
- - 
+   
 ## How to get discord token 
 On Discord webpage, F12 - console - paste below code
 ```
